@@ -1,0 +1,8 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+C:/Users/manchester_project/manchester_project.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,
+C:/Users/manchester_project/manchester_project.srcs/sim_1/new/tb_man.v,1664778526,verilog,,,,tb_man,,,,,,,,
+C:/Users/manchester_project/manchester_project.srcs/sources_1/new/man_code.v,1664778674,verilog,,C:/Users/manchester_project/manchester_project.srcs/sources_1/new/man_decode.v,,man_code,,,,,,,,
+C:/Users/manchester_project/manchester_project.srcs/sources_1/new/man_decode.v,1664777928,verilog,,C:/Users/manchester_project/manchester_project.srcs/sim_1/new/tb_man.v,,man_decode,,,,,,,,

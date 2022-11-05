@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+CODING TEST PASSED
+Decoding ended
+DECODING TEST PASSED
+11111010010000100010010
+$stop called at time : 550 ns : File "C:/Users/manchester_project/manchester_project.srcs/sim_1/new/tb_man.v" Line 30

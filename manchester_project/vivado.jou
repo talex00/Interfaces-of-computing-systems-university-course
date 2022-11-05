@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Mon Oct  3 10:54:35 2022
+# Process ID: 3104
+# Current directory: F:/manchester_project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3184 F:\manchester_project\manchester_project.xpr
+# Log file: F:/manchester_project/vivado.log
+# Journal file: F:/manchester_project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project F:/manchester_project/manchester_project.xpr
+update_compile_order -fileset sources_1
+save_project_as manchester_project C:/Users/8200466/Desktop/manchester_project -exclude_run_results -force
